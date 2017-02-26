@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E803C717-061C-4A3D-8F7D-A40D1E8FA651}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PepBoys/Tests.cs">
+    <Files>
+      <File FileName="PepBoys/AppInitializer.cs" Line="27" Column="14" />
+      <File FileName="PepBoys/Tests.cs" Line="48" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PepBoys" expanded="True">
+            <Node name="PepBoys" expanded="True">
+              <Node name="PepBoys" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PepBoys PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
